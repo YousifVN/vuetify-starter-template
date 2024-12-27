@@ -9,6 +9,7 @@ This is a starter template for a Vue.js project using Vuetify, TypeScript, Pinia
 - **Pinia**: State Management
 - **Vue Router**: Routing for Vue.js applications
 - **Tailwind CSS**: Utility-first CSS framework
+-  **Vue I18n**: Localization with support for English and Arabic, configurable via `localStorage`
 
 ## Project Setup
 
