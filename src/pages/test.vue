@@ -1,6 +1,6 @@
 <template>
   <div>
-    hello world component
+    test page, route
   </div>
 </template>
 
